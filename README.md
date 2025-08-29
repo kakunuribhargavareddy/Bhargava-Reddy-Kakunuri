@@ -1,4 +1,4 @@
-
+![logo](https://github.com/kakunuribhargavareddy/Bhargava-Reddy-Kakunuri/blob/3bb630a11fabf99448b6f3418d8018fc34ca184c/DevOps%20%20Data%20Analytics%20%20Data%20Engineering.png)
 <h1 align="center">Hi 👋, I'm Bhargava Reddy Kakunuri</h1>
 <h3 align="center">🚀 Associate Software Engineer | Data Engineering • DevOps • Analytics</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
